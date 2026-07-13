@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.env
+demo_data/signal_log.json
+.DS_Store

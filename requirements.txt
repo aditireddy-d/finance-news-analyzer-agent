@@ -1,0 +1,12 @@
+streamlit
+pandas
+plotly
+yfinance
+feedparser
+requests
+pydantic
+rank-bm25
+scikit-learn
+python-dotenv
+openai
+langgraph

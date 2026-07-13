@@ -1,0 +1,5 @@
+method,horizon,signals,hit_rate,avg_signed_return,avg_raw_return,signal_coverage,is_placeholder
+Multi-Agent Heuristic,5d,0,,,,0%,true
+Multi-Agent Heuristic,20d,0,,,,0%,true
+Sentiment Baseline,5d,0,,,,0%,true
+Random Baseline,5d,0,,,,0%,true
